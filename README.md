@@ -1,4 +1,4 @@
-# Verbose Repo Template Name
+# Costomized codes and experiments for running NerualGCM
 
 #### [[project website]](http://pedram.rice.edu/team/)
 <img src="docs/repo_template.png" width="250">
